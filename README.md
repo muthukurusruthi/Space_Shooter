@@ -6,4 +6,4 @@ A fun space shooting game built with **Pygame**.
 - **Pause**: P  
 
 ## 🎮 Gameplay Preview  
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshot.png)
